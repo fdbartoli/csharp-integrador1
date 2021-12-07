@@ -1,0 +1,14 @@
+C:\Users\Fernando\Desktop\IFTS\tecnicas de programacion\tpintegrador\tpintegrador\bin\Debug\netcoreapp3.1\tpintegrador.exe
+C:\Users\Fernando\Desktop\IFTS\tecnicas de programacion\tpintegrador\tpintegrador\bin\Debug\netcoreapp3.1\tpintegrador.deps.json
+C:\Users\Fernando\Desktop\IFTS\tecnicas de programacion\tpintegrador\tpintegrador\bin\Debug\netcoreapp3.1\tpintegrador.runtimeconfig.json
+C:\Users\Fernando\Desktop\IFTS\tecnicas de programacion\tpintegrador\tpintegrador\bin\Debug\netcoreapp3.1\tpintegrador.runtimeconfig.dev.json
+C:\Users\Fernando\Desktop\IFTS\tecnicas de programacion\tpintegrador\tpintegrador\bin\Debug\netcoreapp3.1\tpintegrador.dll
+C:\Users\Fernando\Desktop\IFTS\tecnicas de programacion\tpintegrador\tpintegrador\bin\Debug\netcoreapp3.1\tpintegrador.pdb
+C:\Users\Fernando\Desktop\IFTS\tecnicas de programacion\tpintegrador\tpintegrador\obj\Debug\netcoreapp3.1\tpintegrador.csproj.AssemblyReference.cache
+C:\Users\Fernando\Desktop\IFTS\tecnicas de programacion\tpintegrador\tpintegrador\obj\Debug\netcoreapp3.1\tpintegrador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\Desktop\IFTS\tecnicas de programacion\tpintegrador\tpintegrador\obj\Debug\netcoreapp3.1\tpintegrador.AssemblyInfoInputs.cache
+C:\Users\Fernando\Desktop\IFTS\tecnicas de programacion\tpintegrador\tpintegrador\obj\Debug\netcoreapp3.1\tpintegrador.AssemblyInfo.cs
+C:\Users\Fernando\Desktop\IFTS\tecnicas de programacion\tpintegrador\tpintegrador\obj\Debug\netcoreapp3.1\tpintegrador.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\IFTS\tecnicas de programacion\tpintegrador\tpintegrador\obj\Debug\netcoreapp3.1\tpintegrador.dll
+C:\Users\Fernando\Desktop\IFTS\tecnicas de programacion\tpintegrador\tpintegrador\obj\Debug\netcoreapp3.1\tpintegrador.pdb
+C:\Users\Fernando\Desktop\IFTS\tecnicas de programacion\tpintegrador\tpintegrador\obj\Debug\netcoreapp3.1\tpintegrador.genruntimeconfig.cache
